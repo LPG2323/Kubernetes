@@ -30,7 +30,7 @@ spec:
 
         - name: discovery-service
 
-          image: maitrelpg/discovery-service:latest
+          image: maitrelpg/discovery-service:1
 
           ports:
 

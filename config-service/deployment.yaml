@@ -30,7 +30,7 @@ spec:
 
         - name: config-service
 
-          image: maitrelpg/config-service:latest
+          image: maitrelpg/config-service:1
 
           ports:
 
